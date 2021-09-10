@@ -33,3 +33,5 @@ def draw() :
         y = 0
     else:
         y = map(hour(), 0, 24, 0, height)
+
+ Carlos nitola
